@@ -3,7 +3,7 @@
 void foo() 
 {
     std::cout << "New thing\n";
-    std::cout<<"bad code lol"
+    std::cout<<"bad code lol\n";
 }
 
 int main() 
